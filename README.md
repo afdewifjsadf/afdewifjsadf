@@ -27,8 +27,18 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&show_icons=true&theme=Gradient))](https://github.com/afdewifjsadf) -->
 
-## 📈 Stats
+## 📈 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afdewifjsadf&hide_border=true&theme=radical" />
+</p>
+
+
+## 🔝 Most used languages
+
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+
+
+<p align="center">
+   <img src="https://github.com/afdewifjsadf/afdewifjsadf/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
