@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=afdewifjsadf&color=dc143c)
-<span>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&theme=radical)](https://github.com/afdewifjsadf)
-</span>
+#### Languages and tools:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afdewifjsadf&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
