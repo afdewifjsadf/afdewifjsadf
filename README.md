@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img  src="https://user-images.githubusercontent.com/90101810/159020627-35a2b3bf-4b3b-421b-97f0-b1658abdfd54.jpg" alt=”my banner”>
+    <img  height="200" src="https://user-images.githubusercontent.com/90101810/159020627-35a2b3bf-4b3b-421b-97f0-b1658abdfd54.jpg" alt=”my banner”>
 </p>
 
 ## 💼 Technical Skills
