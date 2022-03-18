@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 
 ## 📈 GitHub Stats
-
+![](https://komarev.com/ghpvc/?username=afdewifjsadf&color=dc143c)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=afdewifjsadf&color=dc143c)
