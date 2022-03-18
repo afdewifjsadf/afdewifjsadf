@@ -29,12 +29,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_border=true&theme=radical" />
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
-</p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&theme=gotham&custom_title=Statistics)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=afdewifjsadf&color=dc143c)
