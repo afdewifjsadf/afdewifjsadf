@@ -34,5 +34,5 @@ Here are some ideas to get you started:
     <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
 
 </p>
-![ViewCount](https://komarev.com/ghpvc/?username=afdewifjsadf&color=1A4730)
+[![ViewCount](https://komarev.com/ghpvc/?username=afdewifjsadf&color=1A4730)]
 
