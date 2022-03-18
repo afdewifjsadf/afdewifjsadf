@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_border=true&theme=radical" />
-    <img  width="49%"  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_border=true&theme=radical" />
+    <img    alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit2952&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=afdewifjsadf&color=dc143c)
