@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 <span>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&theme=radical)](https://github.com/afdewifjsadf)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&theme=radical)](https://github.com/afdewifjsadf)
 </span>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afdewifjsadf&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afdewifjsadf&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&show_icons=true&theme=Gradient))](https://github.com/afdewifjsadf) -->
+
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afdewifjsadf&hide_border=true&theme=radical" />
+</p>
