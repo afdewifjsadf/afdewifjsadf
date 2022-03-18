@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 ## Hi there 👋
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
