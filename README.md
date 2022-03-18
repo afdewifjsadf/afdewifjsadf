@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-<p>
+<span>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&theme=radical)](https://github.com/afdewifjsadf)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&show_icons=true&theme=Gradient))](https://github.com/afdewifjsadf) -->
+</span>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=afdewifjsadf&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&show_icons=true&theme=Gradient))](https://github.com/afdewifjsadf) -->
