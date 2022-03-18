@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf)](https://github.com/afdewifjsadf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf&show_icons=true&theme=Gradient)](https://github.com/afdewifjsadf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact)](https://github.com/afdewifjsadf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact&show_icons=true&theme=Gradient))](https://github.com/afdewifjsadf)
