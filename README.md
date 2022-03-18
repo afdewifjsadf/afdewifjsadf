@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf)](https://github.com/afdewifjsadf)
 
