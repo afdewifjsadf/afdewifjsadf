@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afdewifjsadf)](https://github.com/afdewifjsadf)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afdewifjsadf&layout=compact)](https://github.com/afdewifjsadf)
